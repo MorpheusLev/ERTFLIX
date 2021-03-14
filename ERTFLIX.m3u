@@ -1,0 +1,21 @@
+=====[ ERT ]=====
+#EXTINF:0 logo=https://program.ert.gr/images/ChannelLogo-ERT1.png ,ERT1
+https://ert-live-bcbs15228.siliconweb.com:443/media/ert_1/ert_1medium.m3u8
+#EXTINF:0 logo=https://program.ert.gr/images/ChannelLogo-ERT2.png ,ERT2
+https://ert-live-bcbs15228.siliconweb.com:443/media/ert_2/ert_2medium.m3u8
+#EXTINF:0 logo=https://program.ert.gr/images/ChannelLogo-ERT3.png ,ERT3
+https://ert-live-bcbs15228.siliconweb.com:443/media/ert_3/ert_3medium.m3u8
+#EXTINF:0 logo=https://program.ert.gr/images/ChannelLogo-ERTsports.png ,ERT SPORTS FHD
+https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports/ert_sportshigh.m3u8
+#EXTINF:0 logo=https://program.ert.gr/images/ChannelLogo-ERTsports.png ,ERT SPORTS HD
+https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports/ert_sportsmedium.m3u8
+#EXTINF:0 logo=https://program.ert.gr/images/ChannelLogo-ERTsports.png ,ERT SPORTS 2
+https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_2/ert_sports_2medium.m3u8
+#EXTINF:0 logo=https://program.ert.gr/images/ChannelLogo-ERTsports.png ,ERT SPORTS 3
+https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_3/ert_sports_3medium.m3u8
+#EXTINF:0 logo=https://program.ert.gr/images/ChannelLogo-ERTsports.png ,ERT SPORTS 4
+https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_4/ert_sports_4medium.m3u8
+#EXTINF:0 logo=https://program.ert.gr/images/ChannelLogo-ERTsports.png ,ERT SPORTS 5
+https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_5/ert_sports_5medium.m3u8
+#EXTINF:0 logo=https://program.ert.gr/images/ChannelLogo-ERTWORLD1.png ,ERTWORLD
+https://ert-live-bcbs15228.siliconweb.com:443/media/ert_world/ert_worldmedium.m3u8
