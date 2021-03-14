@@ -1,41 +1,41 @@
-﻿#EXTM3U
-#EXTINF:-1 radio="false" tvg-name="ERT 1" tvg-logo="https://i.imgur.com/Dd3HM0I.png" tvg-country="Greece" tvg-link="http://greektvapp.github.io/api/epg.xml.gz" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT1 HD
+#EXTM3U x-tvg-url="http://greektvapp.github.io/api/epg.xml.gz"
+#EXTINF:-1 radio="false" tvg-name="ERT 1" tvg-logo="https://i.imgur.com/Dd3HM0I.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT1 HD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
-#EXTINF:-1 radio="false" tvg-name="ERT 2" tvg-logo="https://i.imgur.com/cpzgu5L.png" tvg-country="Greece" tvg-link="http://greektvapp.github.io/api/epg.xml.gz" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT2 HD
+#EXTINF:-1 radio="false" tvg-name="ERT 2" tvg-logo="https://i.imgur.com/cpzgu5L.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT2 HD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
-#EXTINF:-1 radio="false" tvg-name="ERT 3" tvg-logo="https://i.imgur.com/GJjfeY8.png" tvg-country="Greece" tvg-link="http://greektvapp.github.io/api/epg.xml.gz" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT3 HD
+#EXTINF:-1 radio="false" tvg-name="ERT 3" tvg-logo="https://i.imgur.com/GJjfeY8.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT3 HD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3.m3u8
-#EXTINF:-1 radio="false" tvg-name="ERT SPORTS FHD" tvg-logo="https://i.imgur.com/SgiGEUK.png" tvg-country="Greece" tvg-link="http://greektvapp.github.io/api/epg.xml.gz" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT SPORTS FHD
+#EXTINF:-1 radio="false" tvg-name="ERT SPORTS FHD" tvg-logo="https://i.imgur.com/SgiGEUK.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT SPORTS FHD
 https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports/ert_sportshigh.m3u8
-#EXTINF:-1 radio="false" tvg-name="ERT SPORTS HD" tvg-logo="https://i.imgur.com/SgiGEUK.png" tvg-country="Greece" tvg-link="http://greektvapp.github.io/api/epg.xml.gz" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT SPORTS HD
+#EXTINF:-1 radio="false" tvg-name="ERT SPORTS HD" tvg-logo="https://i.imgur.com/SgiGEUK.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT SPORTS HD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
-#EXTINF:-1 radio="false" tvg-name="ERT SPORTS 2" tvg-logo="https://i.imgur.com/SgiGEUK.png" tvg-country="Greece" tvg-link="http://greektvapp.github.io/api/epg.xml.gz" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT SPORTS 2
+#EXTINF:-1 radio="false" tvg-name="ERT SPORTS 2" tvg-logo="https://i.imgur.com/SgiGEUK.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT SPORTS 2
 https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_2/ert_sports_2medium.m3u8
-#EXTINF:-1 radio="false" tvg-name="ERT SPORTS 3" tvg-logo="https://i.imgur.com/SgiGEUK.png" tvg-country="Greece" tvg-link="http://greektvapp.github.io/api/epg.xml.gz" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT SPORTS 3
+#EXTINF:-1 radio="false" tvg-name="ERT SPORTS 3" tvg-logo="https://i.imgur.com/SgiGEUK.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT SPORTS 3
 https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_3/ert_sports_3medium.m3u8
-#EXTINF:-1 radio="false" tvg-name="ERT SPORTS 4" tvg-logo="https://i.imgur.com/SgiGEUK.png" tvg-country="Greece" tvg-link="http://greektvapp.github.io/api/epg.xml.gz" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT SPORTS 4
+#EXTINF:-1 radio="false" tvg-name="ERT SPORTS 4" tvg-logo="https://i.imgur.com/SgiGEUK.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT SPORTS 4
 https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_4/ert_sports_4medium.m3u8
-#EXTINF:-1 radio="false" tvg-name="ERT SPORTS 5" tvg-logo="https://i.imgur.com/SgiGEUK.png" tvg-country="Greece" tvg-link="http://greektvapp.github.io/api/epg.xml.gz" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT SPORTS 5
+#EXTINF:-1 radio="false" tvg-name="ERT SPORTS 5" tvg-logo="https://i.imgur.com/SgiGEUK.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT SPORTS 5
 https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_5/ert_sports_5medium.m3u8
-#EXTINF:-1 radio="false" tvg-name="ERT WORLD" tvg-logo="https://i.imgur.com/WeJpLhK.png" tvg-country="Greece" tvg-link="http://greektvapp.github.io/api/epg.xml.gz" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT WORLD
-http://ert-live-https://ert-live-bcbs15228.siliconweb.com:443/media/ert_world/ert_worldmedium.m3u8
-#EXTINF:-1 radio="false" tvg-name="MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MEGA_CHANNEL.png" tvg-country="Greece" tvg-link="http://greektvapp.github.io/api/epg.xml.gz" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
+#EXTINF:-1 radio="false" tvg-name="ERT WORLD" tvg-logo="https://i.imgur.com/WeJpLhK.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT WORLD
+http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+#EXTINF:-1 radio="false" tvg-name="MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MEGA_CHANNEL.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="ANT1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ANT1_Greek_channel_logo.svg/1920px-ANT1_Greek_channel_logo.svg.png" tvg-country="Greece" tvg-link="http://greektvapp.github.io/api/epg.xml.gz" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 HD
+#EXTINF:-1 radio="false" tvg-name="ANT1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ANT1_Greek_channel_logo.svg/1920px-ANT1_Greek_channel_logo.svg.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
-#EXTINF:-1 radio="false" tvg-name="ALPHA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Alpha_TV_logo.svg/1200px-Alpha_TV_logo.svg.png" tvg-country="Greece" tvg-link="http://greektvapp.github.io/api/epg.xml.gz" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA HD
+#EXTINF:-1 radio="false" tvg-name="ALPHA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Alpha_TV_logo.svg/1200px-Alpha_TV_logo.svg.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA HD
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
-#EXTINF:-1 radio="false" tvg-name="STAR HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Star_Channel_2003.png" tvg-country="Greece" tvg-link="http://greektvapp.github.io/api/epg.xml.gz" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",STAR HD
+#EXTINF:-1 radio="false" tvg-name="STAR HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Star_Channel_2003.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",STAR HD
 http://livestar.siliconweb.com/media/star1/star1.m3u8
-#EXTINF:-1 radio="false" tvg-name="SKAI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" tvg-country="Greece" tvg-link="http://greektvapp.github.io/api/epg.xml.gz" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",SKAI HD
+#EXTINF:-1 radio="false" tvg-name="SKAI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",SKAI HD
 http://skai-live.siliconweb.com/media/cambria4/index_bitrate1200K.m3u8
-#EXTINF:-1 radio="false" tvg-name="OPEN TV HD" tvg-logo="https://i.imgur.com/c9hgL1c.jpg" tvg-country="Greece" tvg-link="http://greektvapp.github.io/api/epg.xml.gz" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",OPEN TV HD
+#EXTINF:-1 radio="false" tvg-name="OPEN TV HD" tvg-logo="https://i.imgur.com/c9hgL1c.jpg" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="VOULI" tvg-logo="https://upload.wikimedia.org/wikipedia/el/0/03/VOYLHTV-LOGO_2020.png" tvg-country="Greece" tvg-link="http://greektvapp.github.io/api/epg.xml.gz" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",VOULI
+#EXTINF:-1 radio="false" tvg-name="VOULI" tvg-logo="https://upload.wikimedia.org/wikipedia/el/0/03/VOYLHTV-LOGO_2020.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:-1 radio="false" tvg-name="VOULI" tvg-logo="https://upload.wikimedia.org/wikipedia/el/0/03/VOYLHTV-LOGO_2020.png" tvg-country="Greece" tvg-link="http://greektvapp.github.io/api/epg.xml.gz" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",VOULI TV2
+#EXTINF:-1 radio="false" tvg-name="VOULI" tvg-logo="https://upload.wikimedia.org/wikipedia/el/0/03/VOYLHTV-LOGO_2020.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",VOULI TV2
 http://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8
-#EXTINF:-1 radio="false" tvg-name="VOULI" tvg-logo="https://upload.wikimedia.org/wikipedia/el/0/03/VOYLHTV-LOGO_2020.png" tvg-country="Greece" tvg-link="http://greektvapp.github.io/api/epg.xml.gz" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",VOULI TV3
+#EXTINF:-1 radio="false" tvg-name="VOULI" tvg-logo="https://upload.wikimedia.org/wikipedia/el/0/03/VOYLHTV-LOGO_2020.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",VOULI TV3
 http://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/Fo1I0dt.jpg" group-title="CINEMA",34100 TV
 https://s1.cystream.net/live/34100/playlist.m3u8
