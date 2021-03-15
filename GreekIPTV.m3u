@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://greektvapp.github.io/api/epg.xml.gz"
+﻿#EXTM3U x-tvg-url="http://greektvapp.github.io/api/epg.xml.gz"
 #EXTINF:-1 radio="false" tvg-name="ERT 1" tvg-logo="https://i.imgur.com/Dd3HM0I.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT1 HD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
 #EXTINF:-1 radio="false" tvg-name="ERT 2" tvg-logo="https://i.imgur.com/cpzgu5L.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT2 HD
@@ -104,7 +104,7 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-name="cyta.smiletv.cy" tvg-logo="https://i.imgur.com/DOOVBu5.png" group-title="ΠΑΙΔΙΚΑ",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/xHdfbl6.jpg" group-title="ΠΑΙΔΙΚΑ",BOOBA
-https://www.youtube.com/watch?v=XK8METRgK_U
+https://raw.githubusercontent.com/MorpheusLev/CHANNELS/main/BOOBA.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/7sUmqv2.png" group-title="ΠΑΙΔΙΚΑ",KIDS TV
 http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 radio="false" tvg-name="cyta.euronews.cy" tvg-logo="https://i.imgur.com/4EvDoaG.png" group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ",EURONEWS
