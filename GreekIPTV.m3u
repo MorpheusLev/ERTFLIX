@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="http://greektvapp.github.io/api/epg.xml.gz"
+#EXTM3U x-tvg-url="http://greektvapp.github.io/api/epg.xml.gz"
 #EXTINF:-1 radio="false" tvg-name="ERT 1" tvg-logo="https://i.imgur.com/Dd3HM0I.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT1 HD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
 #EXTINF:-1 radio="false" tvg-name="ERT 2" tvg-logo="https://i.imgur.com/cpzgu5L.png" tvg-country="Greece" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT2 HD
