@@ -120,7 +120,7 @@ https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/T8mB6Kg.jpg" group-title="ΠΑΓΚΥΠΡΙΑ",FAROS TV2 CY
 https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-name="OMEGA TV" tvg-logo="https://i.imgur.com/cPWaFol.png" tvg-country="Greece" group-title="ΠΑΓΚΥΠΡΙΑ",OMEGA TV
-http://www.omegatv.com.cy/live/
+https://raw.githubusercontent.com/MorpheusLev/CHANNELS/main/OMEGA_TV_CYPRUS.m3u8
 #EXTINF:-1 radio="false" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png" group-title="ΠΑΓΚΥΠΡΙΑ",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/zUCnE0t.jpg" group-title="ΠΑΓΚΥΠΡΙΑ",SEEN TV CY
