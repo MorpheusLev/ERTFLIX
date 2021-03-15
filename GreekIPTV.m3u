@@ -159,7 +159,7 @@ https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 http://176.9.123.140:1935/1c/stream/master.m3u8
 #EXTINF:-1 radio="false" tvg-name="digea.epirustv1.gr" tvg-logo="http://greektv.pbworks.com/f/EPIRUS_TV1.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",EPIRUS TV1
 http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="EPSILON TV" tvg-logo="https://i.imgur.com/ZzIMAd0.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",EPSILON TV
+#EXTINF:-1 radio="false" tvg-name="EPSILON TV" tvg-logo="https://i.imgur.com/6V2YS5Q.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",EPSILON TV
 https://edge1.mystream.gr/video417338/live/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-name="digea.hightv.gr" tvg-logo="http://greektv.pbworks.com/f/HIGH.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
