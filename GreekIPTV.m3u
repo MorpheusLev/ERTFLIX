@@ -83,8 +83,6 @@ http://wpso.com:1936/hls/wzra.m3u8
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/cE8LuoO.png" group-title="WEB TV",HORSE RACES
 https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/Q8BS310.png" group-title="WEB TV",MAD RADIO
-https://www.youtube.com/watch?v=WEsJ0un-AME
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/TabBmOc.png" group-title="WEB TV",MARON TV
 https://video.connect4.gr/live/marontv/marontv/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/8coUyPX.png" group-title="WEB TV",MAROUSSIOTIKA TV
@@ -109,8 +107,8 @@ https://s1.cystream.net/live/smile/playlist.m3u8
 https://raw.githubusercontent.com/MorpheusLev/CHANNELS/main/BOOBA.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/7sUmqv2.png" group-title="ΠΑΙΔΙΚΑ",KIDS TV
 http://wpso.com:1936/hls/kidshd.m3u8
-#EXTINF:-1 radio="false" tvg-name="cyta.euronews.cy" tvg-logo="https://i.imgur.com/4EvDoaG.png" group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ",EURONEWS
-https://www.youtube.com/watch?v=-UJlcdni8cM
+#EXTINF:-1 radio="false" tvg-name="EURONEWS" tvg-logo="https://i.imgur.com/4EvDoaG.png" group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ",EURONEWS
+https://raw.githubusercontent.com/MorpheusLev/CHANNELS/main/EURONEWS_LIVE_GREEK.m3u8
 #EXTINF:-1 radio="false" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png" group-title="ΠΑΓΚΥΠΡΙΑ",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-name="Sigma TV" tvg-logo="https://i.imgur.com/uAIsqsP.png" group-title="ΠΑΓΚΥΠΡΙΑ",SIGMA CY
@@ -202,7 +200,7 @@ https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-name="TOP CHANNEL" tvg-logo="http://greektv.pbworks.com/f/TOP_KOZANIS.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",TOP CHANNEL
 https://s1.netmax-host.eu:2053/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-name="digea.trt.gr" tvg-logo="https://i.imgur.com/HwC31wH.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",TRT TV
-https://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8
+http://trtstream.hellasnet.tv:1935/rest/trt2/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-name="digea.tv100.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",TV 100
 https://live.fm100.gr/hls/tv100/index.m3u8
 #EXTINF:-1 radio="false" tvg-name="digea.tvrodopi.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028329/R_CHANNEL.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",TV RODOPI
@@ -219,6 +217,8 @@ http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 https://vod.streams.ovh:3528/stream/play.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/I4kzEBw.jpg" group-title="ΜΟΥΣΙΚΗ",FOX MUSIC
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/Q8BS310.png" group-title="ΜΟΥΣΙΚΗ",MAD RADIO
+https://raw.githubusercontent.com/MorpheusLev/CHANNELS/main/MAD_RADIO.m3u8
 #EXTINF:-1 radio="false" tvg-name="MAD TV" tvg-logo="https://i.imgur.com/S0hPYmI.png" group-title="ΜΟΥΣΙΚΗ",MAD TV
 https://raw.githubusercontent.com/MorpheusLev/CHANNELS/main/MADTV.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/kjhj78D.png" group-title="ΜΟΥΣΙΚΗ",MAGIC TV
