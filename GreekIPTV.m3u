@@ -79,7 +79,7 @@ https://5d00db0e0fcd5.streamlock.net:443/7170/7170/playlist.m3u8
 https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/DcleTdR.png" group-title="WEB TV",GREEK VOICE
 http://wpso.com:1936/hls/wzra.m3u8
-#EXTINF:-1 radio="false" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg" group-title="WEB TV",HELLENIC TV
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/lih1dGU.jpg" group-title="WEB TV",HELLENIC TV
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/cE8LuoO.png" group-title="WEB TV",HORSE RACES
 https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
