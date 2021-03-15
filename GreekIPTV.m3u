@@ -59,6 +59,8 @@ http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/5HV5pLu.jpg" group-title="CINEMA",SUPER CHANNEL
 https://bit.ly/35EmGO5
+#EXTINF:-1 radio="false" tvg-name="AG. DIMITRIOS" tvg-logo="https://i.imgur.com/oresKtU.jpg" tvg-country="Greece" group-title="WEB TV",AG. DIMITRIOS
+https://raw.githubusercontent.com/MorpheusLev/CHANNELS/main/AGIOS_DIMITRIOS_PEIRAIOS.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/aYgRkkB.jpg" group-title="WEB TV",AKRITAS TV HD
 http://akritastv1.flashmediacast.com:1935/akritastv1/livestream/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/H3xtBV3.jpg" group-title="WEB TV",ALITHIA TV
@@ -75,7 +77,7 @@ https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1 radio="false" tvg-name="EPILOGES TV" tvg-logo="https://i.imgur.com/xBe2AF9.png" tvg-country="Greece" group-title="WEB TV",EPILOGES TV
 https://5d00db0e0fcd5.streamlock.net:443/7170/7170/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/YhwbcwE.png" tvg-link="https://www.greektvlondon.com/tvprogram" group-title="WEB TV",GREEK TV LONDON
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/YhwbcwE.png" group-title="WEB TV",GREEK TV LONDON
 https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/DcleTdR.png" group-title="WEB TV",GREEK VOICE
 http://wpso.com:1936/hls/wzra.m3u8
