@@ -125,85 +125,87 @@ https://s1.cystream.net/live/faros2/playlist.m3u8
 https://dev.aftermind.xyz/upstream/unitrust-webplayer/ZKYZntAds9QTjud/20957.m3u8
 #EXTINF:-1 radio="false" tvg-name="Tvmall" tvg-logo="https://i.imgur.com/W2wNukK.png" group-title="ΠΑΓΚΥΠΡΙΑ",CBC TV MALL CY
 https://s1.cystream.net/live/tvmall/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-id="digea.lydiatv.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",4E
+#EXTINF:-1 radio="false" tvg-id="digea.lydiatv.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",4E
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.alert.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ALERT
+#EXTINF:-1 radio="false" tvg-name="digea.alert.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.alfa.gr" tvg-logo="https://i.imgur.com/39l3uRU.jpg" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ALFA
+#EXTINF:-1 radio="false" tvg-name="digea.alfa.gr" tvg-logo="https://i.imgur.com/39l3uRU.jpg" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ALFA
 http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.art.gr" tvg-logo="http://greektv.pbworks.com/f/ART.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ART
+#EXTINF:-1 radio="false" tvg-name="digea.art.gr" tvg-logo="http://greektv.pbworks.com/f/ART.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.arttv.gr" tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ART TV
+#EXTINF:-1 radio="false" tvg-name="digea.arttv.gr" tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ART TV
 http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.atticatv.gr" tvg-logo="https://i.imgur.com/s3qWC9W.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ATTICA TV
+#EXTINF:-1 radio="false" tvg-name="digea.atticatv.gr" tvg-logo="https://i.imgur.com/s3qWC9W.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ATTICA TV
 https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.axelwostv.gr" tvg-logo="http://greektv.pbworks.com/f/AXELWOS_TV.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",AXELWOS TV
+#EXTINF:-1 radio="false" tvg-name="digea.axelwostv.gr" tvg-logo="http://greektv.pbworks.com/f/AXELWOS_TV.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",AXELWOS TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.besttv.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254401/BEST.PNG" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",BEST TV
+#EXTINF:-1 radio="false" tvg-name="digea.besttv.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254401/BEST.PNG" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",BEST TV
 https://s.best-tv.gr/HLS/hls/best/1_2/index.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.channel9.gr" tvg-logo="https://i.imgur.com/H6s5t1z.jpg" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",CHANNEL 9
+#EXTINF:-1 radio="false" tvg-name="digea.channel9.gr" tvg-logo="https://i.imgur.com/H6s5t1z.jpg" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",CHANNEL 9
 https://e-e.cyou:8222/channel9/channel9/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.corfutv.gr" tvg-logo="https://i.imgur.com/w0UIKte.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",CORFU TV
+#EXTINF:-1 radio="false" tvg-name="digea.corfutv.gr" tvg-logo="https://i.imgur.com/w0UIKte.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",CORFU TV
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.creta.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46893829/CRETA.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",CRETA
+#EXTINF:-1 radio="false" tvg-name="digea.creta.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46893829/CRETA.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",CRETA
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.deltatv.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028326/DELTA_TV.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",DELTA TV
+#EXTINF:-1 radio="false" tvg-name="digea.deltatv.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028326/DELTA_TV.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",DELTA TV
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.diktyo.gr" tvg-logo="https://i.imgur.com/0klufvz.jpg" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",DIKTYO 1
+#EXTINF:-1 radio="false" tvg-name="digea.diktyo.gr" tvg-logo="https://i.imgur.com/0klufvz.jpg" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",DIKTYO 1
 https://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.diktyo.gr" tvg-logo="https://i.imgur.com/IH0xIoZ.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",DIKTYO TV
+#EXTINF:-1 radio="false" tvg-name="digea.diktyo.gr" tvg-logo="https://i.imgur.com/IH0xIoZ.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",DIKTYO TV
 https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.egnatia.gr" tvg-logo="https://i.imgur.com/XQyysct.jpg" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",EGNATIA TV
+#EXTINF:-1 radio="false" tvg-name="digea.egnatia.gr" tvg-logo="https://i.imgur.com/XQyysct.jpg" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",EGNATIA TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.enachannel.gr" tvg-logo="http://greektv.pbworks.com/f/ENA_CHANNEL.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ENA CHANNEL
+#EXTINF:-1 radio="false" tvg-name="digea.enachannel.gr" tvg-logo="http://greektv.pbworks.com/f/ENA_CHANNEL.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ENA CHANNEL
 http://176.9.123.140:1935/1c/stream/master.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.epirustv1.gr" tvg-logo="http://greektv.pbworks.com/f/EPIRUS_TV1.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",EPIRUS TV1
+#EXTINF:-1 radio="false" tvg-name="EPILOGES TV" tvg-logo="https://epiloges.tv/amp/wp-content/uploads/2020/06/epiloges-logo-webos2000-300x80-1.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",EPILOGES TV
+https://5d00db0e0fcd5.streamlock.net:443/7170/7170/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-name="digea.epirustv1.gr" tvg-logo="http://greektv.pbworks.com/f/EPIRUS_TV1.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",EPIRUS TV1
 http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="AE TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",EPSILON TV
+#EXTINF:-1 radio="false" tvg-name="AE TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",EPSILON TV
 https://edge1.mystream.gr/video417338/live/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.hightv.gr" tvg-logo="http://greektv.pbworks.com/f/HIGH.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",HIGH TV
+#EXTINF:-1 radio="false" tvg-name="digea.hightv.gr" tvg-logo="http://greektv.pbworks.com/f/HIGH.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.hlektratv.gr" tvg-logo="https://i.imgur.com/SI8Ny3X.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",HLEKTRA TV
+#EXTINF:-1 radio="false" tvg-name="digea.hlektratv.gr" tvg-logo="https://i.imgur.com/SI8Ny3X.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",HLEKTRA TV
 http://167.86.89.20:5080/LiveApp/streams/064918158666216168224216.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.ionianchannel.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",IONIAN CHANNEL
+#EXTINF:-1 radio="false" tvg-name="digea.ionianchannel.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",IONIAN CHANNEL
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.iridatv.gr" tvg-logo="https://i.imgur.com/gn5sdCt.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",IRIDA TV
+#EXTINF:-1 radio="false" tvg-name="digea.iridatv.gr" tvg-logo="https://i.imgur.com/gn5sdCt.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",IRIDA TV
 https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.kontra.gr" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",KONTRA
+#EXTINF:-1 radio="false" tvg-name="digea.kontra.gr" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",KONTRA
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="Κρήτη TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926558/KRHTH_TV.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",KPHTH TV
+#EXTINF:-1 radio="false" tvg-name="Κρήτη TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926558/KRHTH_TV.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",KPHTH TV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="LYCHNOS.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51265944/LYCHNOS.PNG" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",LYCHNOS
+#EXTINF:-1 radio="false" tvg-name="LYCHNOS.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51265944/LYCHNOS.PNG" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",LYCHNOS
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.mesogeiostv.gr" tvg-logo="https://i.imgur.com/OnB6n3C.jpg" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",MESOGEIOS TV
+#EXTINF:-1 radio="false" tvg-name="digea.mesogeiostv.gr" tvg-logo="https://i.imgur.com/OnB6n3C.jpg" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",MESOGEIOS TV
 http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
-#EXTINF:-1 radio="false" tvg-name="NEA TV CRETE" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926622/NEA_TV.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",NEA TV
+#EXTINF:-1 radio="false" tvg-name="NEA TV CRETE" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926622/NEA_TV.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",NEA TV
 https://live.neatv.gr:8888/hls/neatv.m3u8
-#EXTINF:-1 radio="false" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ONE TV HD
+#EXTINF:-1 radio="false" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ONE TV HD
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.pella.gr" tvg-logo="https://i.imgur.com/9YFieqB.jpg" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",PELLA TV
+#EXTINF:-1 radio="false" tvg-name="digea.pella.gr" tvg-logo="https://i.imgur.com/9YFieqB.jpg" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",PELLA TV
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.plp.gr" tvg-logo="https://i.imgur.com/qa3Lurc.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",PLP
+#EXTINF:-1 radio="false" tvg-name="digea.plp.gr" tvg-logo="https://i.imgur.com/qa3Lurc.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",PLP
 https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.samiakitv.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/67079118/SAMIAKI_TV%2C.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",SAMIAKI TV
+#EXTINF:-1 radio="false" tvg-name="digea.samiakitv.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/67079118/SAMIAKI_TV%2C.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",SAMIAKI TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.starttv.gr" tvg-logo="http://greektv.pbworks.com/f/START_TV.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",START TV
+#EXTINF:-1 radio="false" tvg-name="digea.starttv.gr" tvg-logo="http://greektv.pbworks.com/f/START_TV.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",START TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020365/SUPER_B.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",SUPER B
+#EXTINF:-1 radio="false" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020365/SUPER_B.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",SUPER B
 https://til.pp.ua:3424/live/superblive.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.syrostv1.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54780449/TV1_SYROS.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",SYROS TV1
+#EXTINF:-1 radio="false" tvg-name="digea.syrostv1.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54780449/TV1_SYROS.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",SYROS TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.thrakinet.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028330/THRAKINET.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",THRAKINET
+#EXTINF:-1 radio="false" tvg-name="digea.thrakinet.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028330/THRAKINET.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",THRAKINET
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.tileepiloges.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186739/TILE_EPILOGES.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",TILE EPILOGES
+#EXTINF:-1 radio="false" tvg-name="digea.tileepiloges.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186739/TILE_EPILOGES.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",TILE EPILOGES
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="TOP CHANNEL" tvg-logo="http://greektv.pbworks.com/f/TOP_KOZANIS.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",TOP CHANNEL
+#EXTINF:-1 radio="false" tvg-name="TOP CHANNEL" tvg-logo="http://greektv.pbworks.com/f/TOP_KOZANIS.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",TOP CHANNEL
 https://s1.netmax-host.eu:2053/topchannel/topchannel/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.trt.gr" tvg-logo="https://i.imgur.com/HwC31wH.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",TRT TV
+#EXTINF:-1 radio="false" tvg-name="digea.trt.gr" tvg-logo="https://i.imgur.com/HwC31wH.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",TRT TV
 https://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.tv100.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",TV 100
+#EXTINF:-1 radio="false" tvg-name="digea.tv100.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",TV 100
 https://live.fm100.gr/hls/tv100/index.m3u8
-#EXTINF:-1 radio="false" tvg-name="digea.tvrodopi.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028329/R_CHANNEL.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",TV RODOPI
+#EXTINF:-1 radio="false" tvg-name="digea.tvrodopi.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028329/R_CHANNEL.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",TV RODOPI
 https://video.connect4.gr/live/tvrodopi/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/FNNCrTI.png" group-title="ΜΟΥΣΙΚΗ",BARAZA TV HD
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
