@@ -139,12 +139,16 @@ http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-name="digea.arttv.gr" tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ART TV
 http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-name="ASTRA TV" tvg-logo="https://i.imgur.com/jTto33R.jpg" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ASTRA TV
+https://raw.githubusercontent.com/MorpheusLev/CHANNELS/main/ASTRA_LIVE_TV.m3u8
 #EXTINF:-1 radio="false" tvg-name="digea.atticatv.gr" tvg-logo="https://i.imgur.com/s3qWC9W.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ATTICA TV
 https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-name="digea.axelwostv.gr" tvg-logo="http://greektv.pbworks.com/f/AXELWOS_TV.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",AXELWOS TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-name="digea.besttv.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254401/BEST.PNG" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",BEST TV
 https://s.best-tv.gr/HLS/hls/best/1_2/index.m3u8
+#EXTINF:-1 radio="false" tvg-name="BLUE SKY TV" tvg-logo="https://i.imgur.com/ozvVHkV.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",BLUE SKY TV
+https://raw.githubusercontent.com/MorpheusLev/CHANNELS/main/BLUE_SKY_TV.m3u8
 #EXTINF:-1 radio="false" tvg-name="digea.channel9.gr" tvg-logo="https://i.imgur.com/H6s5t1z.jpg" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",CHANNEL 9
 https://e-e.cyou:8222/channel9/channel9/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-name="digea.corfutv.gr" tvg-logo="https://i.imgur.com/w0UIKte.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",CORFU TV
@@ -209,8 +213,6 @@ http://trtstream.hellasnet.tv:1935/rest/trt2/playlist.m3u8
 https://live.fm100.gr/hls/tv100/index.m3u8
 #EXTINF:-1 radio="false" tvg-name="digea.tvrodopi.gr" tvg-logo="http://www.tvrodopi.gr/images/logo.png" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",TV RODOPI
 https://video.connect4.gr/live/tvrodopi/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-name="ASTRA TV" tvg-logo="https://i.imgur.com/jTto33R.jpg" tvg-country="Greece" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ASTRA TV
-https://raw.githubusercontent.com/MorpheusLev/CHANNELS/main/ASTRA_LIVE_TV.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/FNNCrTI.png" group-title="ΜΟΥΣΙΚΗ",BARAZA TV HD
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/FNNCrTI.png" group-title="ΜΟΥΣΙΚΗ",BARAZA TV HD Greek hits
