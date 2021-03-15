@@ -48,7 +48,7 @@ https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/FKJ6N9p.png" group-title="CINEMA",GREEK CINEMA
 https://vdo.alphaserver.gr:3613/stream/play.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/0iklNh2.png" group-title="CINEMA",GROOVY
-http://bit.ly/2p6JqSo
+https://raw.githubusercontent.com/MorpheusLev/CHANNELS/main/GROOVY.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/Dj7YFhH.png" group-title="CINEMA",LIVE TV
 https://vod.streams.ovh:3829/stream/play.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/B7YOyLN.jpg" group-title="CINEMA",MPAXALO TV
