@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="https://opop.ga/S7ZUTzTZ9"
 #EXTINF:-1 radio="false" tvg-id="ert.gr" tvg-name="ERT1 HD" tvg-logo="https://i.imgur.com/Dd3HM0I.png" tvg-country="Greek" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT1 HD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
 #EXTINF:-1 radio="false" tvg-name="ERT 2" tvg-logo="https://i.imgur.com/cpzgu5L.png" tvg-country="Greek" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT2 HD
@@ -109,7 +108,7 @@ https://s1.cystream.net/live/smile/playlist.m3u8
 https://raw.githubusercontent.com/MorpheusLev/CHANNELS/main/BOOBA.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/7sUmqv2.png" group-title="ΠΑΙΔΙΚΑ",KIDS TV
 http://wpso.com:1936/hls/kidshd.m3u8
-#EXTINF:-1 radio="false" tvg-name="EURONEWS" tvg-logo="https://i.imgur.com/4EvDoaG.png" group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ",EURONEWS
+#EXTINF:-1 radio="false" tvg-id="euronews.gr" tvg-name="EURONEWS" tvg-logo="https://i.imgur.com/4EvDoaG.png" group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ",EURONEWS
 https://raw.githubusercontent.com/MorpheusLev/CHANNELS/main/EURONEWS_LIVE_GREEK.m3u8
 #EXTINF:-1 radio="false" tvg-name="Tvmall" tvg-logo="https://i.imgur.com/W2wNukK.png" group-title="ΠΑΓΚΥΠΡΙΑ",CBC TV MALL CY
 https://s1.cystream.net/live/tvmall/playlist.m3u8
@@ -227,7 +226,7 @@ https://vod.streams.ovh:3528/stream/play.m3u8
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/Q8BS310.png" group-title="ΜΟΥΣΙΚΗ",MAD RADIO
 https://raw.githubusercontent.com/MorpheusLev/CHANNELS/main/MAD_RADIO.m3u8
-#EXTINF:-1 radio="false" tvg-name="MAD TV" tvg-logo="https://i.imgur.com/S0hPYmI.png" group-title="ΜΟΥΣΙΚΗ",MAD TV
+#EXTINF:-1 radio="false" tvg-id="MADTV.gr" tvg-name="MAD TV" tvg-logo="https://i.imgur.com/S0hPYmI.png" group-title="ΜΟΥΣΙΚΗ",MAD TV
 https://raw.githubusercontent.com/MorpheusLev/CHANNELS/main/MADTV.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/kjhj78D.png" group-title="ΜΟΥΣΙΚΗ",MAGIC TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
