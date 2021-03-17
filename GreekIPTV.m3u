@@ -228,7 +228,7 @@ http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/Q8BS310.png" group-title="ΜΟΥΣΙΚΗ",MAD RADIO
 https://raw.githubusercontent.com/MorpheusLev/CHANNELS/main/MAD_RADIO.m3u8
 #EXTINF:-1 radio="false" tvg-id="MADTV.gr" tvg-name="MAD TV" tvg-logo="https://i.imgur.com/S0hPYmI.png" group-title="ΜΟΥΣΙΚΗ",MAD TV
-https://www.youtube.com/watch?v=8jnQ57uHN2o
+https://apps.erdesigns.eu/youtube/8jnQ57uHN2o
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/kjhj78D.png" group-title="ΜΟΥΣΙΚΗ",MAGIC TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/y3pUxXe.png" group-title="ΜΟΥΣΙΚΗ",MESSATIDA TV
