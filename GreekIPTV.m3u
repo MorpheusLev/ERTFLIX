@@ -255,6 +255,8 @@ http://wpso.com:1936/hls/music1.m3u8
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/AmW9d6H.jpg" group-title="ΜΟΥΣΙΚΗ",ZOUGLA TV
 https://zouglalive-lh.akamaihd.net/i/zouglalive_1@340792/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/gZa6GT1.jpg" group-title="ΜΟΥΣΙΚΗ",RELOAD PLAY
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-name="RED BULL TV" tvg-logo="https://i.imgur.com/8fedub5.png" group-title="ΞΕΝΑ",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 radio="false" tvg-name="FC BAYERN TV" tvg-logo="https://i.imgur.com/Y3P2HL0.png" group-title="ΞΕΝΑ",FC BAYERN TV
