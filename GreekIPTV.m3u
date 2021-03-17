@@ -259,3 +259,5 @@ https://zouglalive-lh.akamaihd.net/i/zouglalive_1@340792/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/Y3P2HL0.png" group-title="ΞΕΝΑ",FC BAYERN TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/H3lE3X5.png" group-title="ΞΕΝΑ",RUSSIA TODAY
+https://rt-news.secure.footprint.net/1103.m3u8
