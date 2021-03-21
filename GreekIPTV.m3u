@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U url-tvg="http://greektvapp.github.io/api/epg.xml.gz"
 #EXTINF: -1 tvg-id="ert.ert1.gr" tvg-name="ERT1 HD" tvg-chno="1" tvg-logo="https://i.imgur.com/Dd3HM0I.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ", ERT1 HD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
 #EXTINF: -1 tvg-id="ert.ert2.gr" tvg-name="ERT 2" tvg-chno="2" tvg-logo="https://i.imgur.com/cpzgu5L.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ", ERT2 HD
