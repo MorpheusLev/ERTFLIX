@@ -265,7 +265,13 @@ https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 https://zouglalive-lh.akamaihd.net/i/zouglalive_1@340792/master.m3u8
 #EXTINF: -1 tvg-name="FC BAYERN TV" tvg-chno="133" tvg-logo="https://i.imgur.com/Y3P2HL0.png" group-title="ΞΕΝΑ", FC BAYERN TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
-#EXTINF: -1 tvg-name="RED BULL TV" tvg-chno="133" tvg-logo="https://i.imgur.com/8fedub5.png" group-title="ΞΕΝΑ", RED BULL TV
+#EXTINF: -1 tvg-chno="134" tvg-logo="https://i.imgur.com/8cvgCY8.png" group-title="ΞΕΝΑ", FOX SPORTS NEWS
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF: -1 tvg-chno="135" tvg-logo="https://i.imgur.com/URF7pIR.jpg" group-title="ΞΕΝΑ", PLUTO TV SPORTS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=b22749b0-ca0e-4663-8bb3-d83febbbb89f&deviceId=5ad9bb941b95267e225e59c2&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon
+#EXTINF: -1 tvg-name="RED BULL TV" tvg-chno="136" tvg-logo="https://i.imgur.com/8fedub5.png" group-title="ΞΕΝΑ", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF: -1 tvg-name="RUSSIA TODAY" tvg-chno="134" tvg-logo="https://i.imgur.com/H3lE3X5.png" group-title="ΞΕΝΑ", RUSSIA TODAY
+#EXTINF: -1 tvg-name="RUSSIA TODAY" tvg-chno="137" tvg-logo="https://i.imgur.com/H3lE3X5.png" group-title="ΞΕΝΑ", RUSSIA TODAY
 https://rt-news.secure.footprint.net/1103.m3u8
+#EXTINF: -1 tvg-chno="138" tvg-logo="https://i.imgur.com/X9qaOfp.png" group-title="ΞΕΝΑ", RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
