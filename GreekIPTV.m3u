@@ -259,9 +259,11 @@ http://wpso.com:1936/hls/music1.m3u8
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF: -1 tvg-chno="130" tvg-logo="https://i.imgur.com/AmW9d6H.jpg" group-title="ΜΟΥΣΙΚΗ", ZOUGLA TV
 https://zouglalive-lh.akamaihd.net/i/zouglalive_1@340792/master.m3u8
-#EXTINF: -1 tvg-name="RED BULL TV" tvg-chno="131" tvg-logo="https://i.imgur.com/8fedub5.png" group-title="ΞΕΝΑ", RED BULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF: -1 tvg-chno="131" tvg-logo="https://i.imgur.com/EEsAAFJ.jpg" group-title="ΞΕΝΑ", FAIL ARMY
+https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/CoQEFKOvbZaP1n3dMIB8YdJGQj_S9sGE35rjxF6DjmZQlSkc1iyqNE3Piy_2EDTeijoqlIRkj9l-gFusy-hVLB1Qx4dQChs_0Wh9wz_dVtSHLBkQi75uxEg32mO6XfkmXhD4JPjRpc_Ff5MS0hD404U3j-vi87Bet2jaWgaElzCcVA9nTkYEzXlfu5ipyEUznMZDPK-eYU4xwvOaZPMZRhtQknQvHtKkLrbsijYjJh4of4N9Lw5Wdx-sMC10Ymua0--e2DRxutaVmdcSGXUjTvWQshcLoSzLjes4fubvSOQh-FWXTM3C8vdgbImEOBy_P04vBGVnYSEOAKxvzCxWZeCM3rbVAun_YevAMZfaM4z3OmjJKCCOWqCLa3GDIc1adqbiLHaEmECf-R5TgFlH_ML7gnLId1V0LLkObv2KisXPh7cAroN_YKdZ6i0KiHBa-9xyOMrsV3nz8z3HYDHPOwHzbOJfC5ADvSX14VwkmVefBZb_xYOoSpwGOsXFNY1_707b5wIYJcBesO_t2wgwUHaCr-TQfJ3-CBgpjI1_Dg37ZB92lGJbzCjl2RPyYjbCgYT0Fg9JE1PY4pbWqRSW0-tlUgVSQP8J-G3FSqznOU0txDjSsU3ySdM5BFQLtnFuTYF8Jg2fgKBWzz3ICIpeQh11rFb4dWAmSKTSYElsCmoxqyFrImXGEhB9E_KVOHr3tn5YTtvk24f2GgwhRtiCnPFfHFV5oTU.m3u8
 #EXTINF: -1 tvg-name="FC BAYERN TV" tvg-chno="132" tvg-logo="https://i.imgur.com/Y3P2HL0.png" group-title="ΞΕΝΑ", FC BAYERN TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
-#EXTINF: -1 tvg-name="RUSSIA TODAY" tvg-chno="133" tvg-logo="https://i.imgur.com/H3lE3X5.png" group-title="ΞΕΝΑ", RUSSIA TODAY
+#EXTINF: -1 tvg-name="RED BULL TV" tvg-chno="133" tvg-logo="https://i.imgur.com/8fedub5.png" group-title="ΞΕΝΑ", RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF: -1 tvg-name="RUSSIA TODAY" tvg-chno="134" tvg-logo="https://i.imgur.com/H3lE3X5.png" group-title="ΞΕΝΑ", RUSSIA TODAY
 https://rt-news.secure.footprint.net/1103.m3u8
